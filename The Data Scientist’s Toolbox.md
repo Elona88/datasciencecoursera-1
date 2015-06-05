@@ -31,17 +31,17 @@ Rstudio
 
 You may attempt each quiz up to 3 times. Hight score will be counted. Each quiz is worth 20% of the grade.
 
-Quiz 1 
+##Quiz 1 
 Due: Sun 8 Jun 2014 4:30 PM PDT 
-Quiz 2 
+##Quiz 2 
 Due: Sun 15 Jun 2014 4:30 PM PDT 
-Quiz 3 
+##Quiz 3 
 Due: Sun 22 Jun 2014 4:30 PM PDT 
 
 #Course project
 
-Worth 40% of the final grade. 
-Course Project: setting up accounts 
+##Worth 40% of the final grade. 
+##Course Project: setting up accounts 
 This assignment is designed to make sure you have done the basic software setup that will get you through the rest of the Data Science Specialization. Each component will be evaluated on a yes/no basis by your peers with 10 points assigned for each yes answer. 
 Part 1 
 Install R 
@@ -60,12 +60,12 @@ Submit the link to the HelloWorld.md file on your Github repo.
 Part 4 
 Fork the data sharing repository here: https://github.com/jtleek/datasharing 
 Submit the link to the forked repository on your Github account. 
-Due on Sun 22 Jun 4:30 pm 
-You also have to evaluate at least four other peers projects 
+##Due on Sun 22 Jun 4:30 pm 
+##You also have to evaluate at least four other peers projects 
 
 #Course Content
 
-Week1 
+##Week1 
 Series motivation 
 Questions come first, then data to answer them 
 Data deluge 
@@ -113,7 +113,7 @@ Installing Rstudio
 Install R first 
 Install from: http://www.rstudio.com/products/rstudio/download/ 
 Mac OS download link: http://download1.rstudio.org/RStudio-0.98.507.dmg 
-Week 2 
+##Week 2 
 Tips from Coursera courses 
 Command Line Interface(CLI) 
 Terminal for Mac/Linux 
