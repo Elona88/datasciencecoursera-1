@@ -27,7 +27,7 @@ Git
 Github 
 R 
 Rstudio 
-Quizzes
+#Quizzes
 
 You may attempt each quiz up to 3 times. Hight score will be counted. Each quiz is worth 20% of the grade.
 
@@ -37,7 +37,8 @@ Quiz 2
 Due: Sun 15 Jun 2014 4:30 PM PDT 
 Quiz 3 
 Due: Sun 22 Jun 2014 4:30 PM PDT 
-Course project
+
+#Course project
 
 Worth 40% of the final grade. 
 Course Project: setting up accounts 
@@ -61,7 +62,8 @@ Fork the data sharing repository here: https://github.com/jtleek/datasharing
 Submit the link to the forked repository on your Github account. 
 Due on Sun 22 Jun 4:30 pm 
 You also have to evaluate at least four other peers projects 
-Course Content
+
+#Course Content
 
 Week1 
 Series motivation 
